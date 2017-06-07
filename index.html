@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <title>Архитектура Android Приложения</title>
+
+    <link rel="stylesheet" href="css/reveal.css">                    <!--slide style-->
+    <link rel="stylesheet" href="css/theme/noveo.css" id="theme">    <!--noveo theme-->
+    <link rel="stylesheet" href="lib/css/magula.css">                <!--code highlight-->
+</head>
+<body>
+<div id="hidden" style="display: none">
+    <div id="overlay">
+        <div id="header-left"></div>
+        <div id="header-right"></div>
+        <div id="footer-right"></div>
+    </div>
+</div>
+<div class="reveal">
+    <div class="slides">
+        <section id="start"
+                 data-markdown="lecture/template/01.1-slide__title.md"></section>
+        <section data-markdown="lecture/template/02.1-slide__dev-life__title.md"></section>
+
+        <section id="developer-life"
+                 data-separator-vertical="^\r?\n------\r?\n$"
+                 data-markdown="lecture/template/02.2-slide__dev-life.md"></section>
+
+        <section id="base"
+                 data-markdown="lecture/template/03.1-slide__base__title.md"></section>
+        <section data-separator-vertical="^\r?\n------\r?\n$"
+                 data-markdown="lecture/template/03.2-slide__base.md"></section>
+        <section data-markdown="lecture/template/03.3-slide__base__totals.md"></section>
+
+        <section id="app"
+                 data-markdown="lecture/template/04.1-slide__async__title.md"></section>
+        <section data-separator-vertical="^\r?\n------\r?\n$"
+                 data-markdown="lecture/template/04.2-slide__async.md"></section>
+        <section data-markdown="lecture/template/04.3-slide__async__totals.md"></section>
+
+        <section id="philosophy"
+                 data-markdown="lecture/template/05.1-slide__philosophy__title.md"></section>
+        <section data-separator-vertical="^\r?\n------\r?\n$"
+                 data-markdown="lecture/template/05.2-slide__philosophy.md"></section>
+        <section data-markdown="lecture/template/05.3-slide__philosophy__totals.md"></section>
+
+        <section id="contents"
+                 data-external="lecture/template/X-slide__table-of-contents.html"></section>
+    </div>
+</div>
+
+<script src="lib/js/head.min.js"></script>      <!--HeadJS functions-->
+<script src="js/reveal.js"></script>            <!--RevealJS functions-->
+<script src="js/config.js"></script>            <!--RevealJS config-->
+
+<script src="lib/js/jquery-3.2.1.min.js"></script>
+<script src="js/printpdf.js"></script>
+</body>
+</html>
