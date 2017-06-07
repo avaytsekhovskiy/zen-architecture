@@ -10,7 +10,7 @@
   width: $labelWidth;
   height: $labelHeight;
 
-  background-image: url($labelPath);
+  background-image: none;
   background-size: $labelWidth $labelHeight;
 
   -webkit-print-color-adjust: exact;
@@ -27,7 +27,7 @@
   width: $logoWidth;
   height: $logoHeight;
 
-  background-image: url($logoPath);
+  background-image: none;
   background-size: $logoWidth $logoHeight;
 
   -webkit-print-color-adjust: exact;
@@ -46,10 +46,10 @@
 
 .has-dark-background {
   #header-left {
-    background-image: url($labelInvertedPath);
+    background-image: none;
   }
   #header-right {
-    background-image: url($logoWhitePath);
+    background-image: none;
   }
   #footer-right::after {
     color: transparent;

@@ -78,7 +78,7 @@
             text-anchor="start"
             dy="35.82266877470356"
             opacity="1"
-            fill="#32628c"
+            fill="#326200"
             stroke="none"
             transform="translate(510, 384)"
             id="text15">MVP</text>
@@ -89,7 +89,7 @@
             text-anchor="start"
             dy="33.71545296442688"
             opacity="1"
-            fill="#021f59"
+            fill="#021f00"
             stroke="none"
             transform="translate(512, 448)"
             id="text17">MVVM</text>
@@ -100,7 +100,7 @@
             text-anchor="start"
             dy="27.393805533596836"
             opacity="1"
-            fill="#32628c"
+            fill="#326200"
             stroke="none"
             transform="translate(540, 324)"
             id="text19">Design</text>
@@ -111,7 +111,7 @@
             text-anchor="start"
             dy="27.393805533596836"
             opacity="1"
-            fill="#021f59"
+            fill="#021f00"
             stroke="none"
             transform="translate(404, 352) rotate(85.46596866430646)"
             id="text21">MVC</text>
@@ -122,7 +122,7 @@
             text-anchor="start"
             dy="25.28658972332016"
             opacity="1"
-            fill="#30588c"
+            fill="#305800"
             stroke="none"
             transform="translate(544, 288)"
             id="text23">VIPER</text>
@@ -133,7 +133,7 @@
             text-anchor="start"
             dy="23.17937391304348"
             opacity="1"
-            fill="#30588c"
+            fill="#305800"
             stroke="none"
             transform="translate(542, 508)"
             id="text25">Android</text>
@@ -144,7 +144,7 @@
             text-anchor="start"
             dy="21.0721581027668"
             opacity="1"
-            fill="#61a2ca"
+            fill="#61a200"
             stroke="none"
             transform="translate(510, 552)"
             id="text27">Architecture</text>
@@ -155,7 +155,7 @@
             text-anchor="start"
             dy="21.0721581027668"
             opacity="1"
-            fill="#021f59"
+            fill="#021f00"
             stroke="none"
             transform="translate(322, 496)"
             id="text29">Locator</text>
@@ -166,7 +166,7 @@
             text-anchor="start"
             dy="21.0721581027668"
             opacity="1"
-            fill="#61a2ca"
+            fill="#61a200"
             stroke="none"
             transform="translate(774, 488)"
             id="text31">Service</text>
@@ -177,7 +177,7 @@
             text-anchor="start"
             dy="21.0721581027668"
             opacity="1"
-            fill="#30588c"
+            fill="#305800"
             stroke="none"
             transform="translate(674, 356) rotate(-32.28314349005764)"
             id="text33">Domain</text>
@@ -188,7 +188,7 @@
             text-anchor="start"
             dy="21.0721581027668"
             opacity="1"
-            fill="#61a2ca"
+            fill="#61a200"
             stroke="none"
             transform="translate(294, 360)"
             id="text35">Clean</text>
@@ -199,7 +199,7 @@
             text-anchor="start"
             dy="21.0721581027668"
             opacity="1"
-            fill="#03318c"
+            fill="#033100"
             stroke="none"
             transform="translate(790, 368)"
             id="text37">Data</text>
@@ -210,7 +210,7 @@
             text-anchor="start"
             dy="18.964942292490118"
             opacity="1"
-            fill="#30588c"
+            fill="#305800"
             stroke="none"
             transform="translate(278, 584)"
             id="text39">@Override</text>
@@ -221,7 +221,7 @@
             text-anchor="start"
             dy="18.964942292490118"
             opacity="1"
-            fill="#021f59"
+            fill="#021f00"
             stroke="none"
             transform="translate(826, 568)"
             id="text41">Injection</text>
@@ -232,7 +232,7 @@
             text-anchor="start"
             dy="18.964942292490118"
             opacity="1"
-            fill="#03318c"
+            fill="#033100"
             stroke="none"
             transform="translate(794, 528)"
             id="text43">@Inject</text>
@@ -243,7 +243,7 @@
             text-anchor="start"
             dy="16.85772648221344"
             opacity="1"
-            fill="#61a2ca"
+            fill="#61a200"
             stroke="none"
             transform="translate(232, 542) rotate(-9.477345659482358)"
             id="text45">Pattern</text>
@@ -254,7 +254,7 @@
             text-anchor="start"
             dy="16.85772648221344"
             opacity="1"
-            fill="#03318c"
+            fill="#033100"
             stroke="none"
             transform="translate(318, 336)"
             id="text47">null</text>
@@ -265,7 +265,7 @@
             text-anchor="start"
             dy="16.85772648221344"
             opacity="1"
-            fill="#03318c"
+            fill="#033100"
             stroke="none"
             transform="translate(678, 296)"
             id="text49">DAO</text>
@@ -276,7 +276,7 @@
             text-anchor="start"
             dy="16.85772648221344"
             opacity="1"
-            fill="#32628c"
+            fill="#326200"
             stroke="none"
             transform="translate(422, 272)"
             id="text51">By</text>
@@ -287,7 +287,7 @@
             text-anchor="start"
             dy="14.75051067193676"
             opacity="1"
-            fill="#03318c"
+            fill="#033100"
             stroke="none"
             transform="translate(208, 464)"
             id="text53">Activity</text>
@@ -298,7 +298,7 @@
             text-anchor="start"
             dy="12.64329486166008"
             opacity="1"
-            fill="#61a2ca"
+            fill="#61a200"
             stroke="none"
             transform="translate(830, 436) rotate(23.050733987413917)"
             id="text55">Throwable</text>
@@ -309,7 +309,7 @@
             text-anchor="start"
             dy="12.64329486166008"
             opacity="1"
-            fill="#30588c"
+            fill="#305800"
             stroke="none"
             transform="translate(510, 588)"
             id="text57">Material</text>
@@ -320,7 +320,7 @@
             text-anchor="start"
             dy="12.64329486166008"
             opacity="1"
-            fill="#03318c"
+            fill="#033100"
             stroke="none"
             transform="translate(642, 592)"
             id="text59">Indent</text>
@@ -331,7 +331,7 @@
             text-anchor="start"
             dy="12.64329486166008"
             opacity="1"
-            fill="#32628c"
+            fill="#326200"
             stroke="none"
             transform="translate(238, 400)"
             id="text61">shared</text>
@@ -342,7 +342,7 @@
             text-anchor="start"
             dy="12.64329486166008"
             opacity="1"
-            fill="#32628c"
+            fill="#326200"
             stroke="none"
             transform="translate(542, 256)"
             id="text63">RxJava</text>
@@ -353,7 +353,7 @@
             text-anchor="start"
             dy="12.64329486166008"
             opacity="1"
-            fill="#61a2ca"
+            fill="#61a200"
             stroke="none"
             transform="translate(234, 432)"
             id="text65">Widget</text>
@@ -364,7 +364,7 @@
             text-anchor="start"
             dy="10.5360790513834"
             opacity="1"
-            fill="#30588c"
+            fill="#305800"
             stroke="none"
             transform="translate(752, 228) rotate(-58.051536038493815)"
             id="text67">component</text>
@@ -375,7 +375,7 @@
             text-anchor="start"
             dy="10.5360790513834"
             opacity="1"
-            fill="#03318c"
+            fill="#033100"
             stroke="none"
             transform="translate(134, 534) rotate(-51.565155229297844)"
             id="text69">Drawable</text>
@@ -386,7 +386,7 @@
             text-anchor="start"
             dy="10.5360790513834"
             opacity="1"
-            fill="#021f59"
+            fill="#021f00"
             stroke="none"
             transform="translate(836, 400)"
             id="text71">Layout</text>
@@ -397,7 +397,7 @@
             text-anchor="start"
             dy="10.5360790513834"
             opacity="1"
-            fill="#30588c"
+            fill="#305800"
             stroke="none"
             transform="translate(324, 304)"
             id="text73">stage</text>
@@ -408,7 +408,7 @@
             text-anchor="start"
             dy="10.5360790513834"
             opacity="1"
-            fill="#30588c"
+            fill="#305800"
             stroke="none"
             transform="translate(352, 280)"
             id="text75">Error</text>
@@ -419,7 +419,7 @@
             text-anchor="start"
             dy="10.5360790513834"
             opacity="1"
-            fill="#61a2ca"
+            fill="#61a200"
             stroke="none"
             transform="translate(384, 532)"
             id="text77">View</text>
@@ -430,7 +430,7 @@
             text-anchor="start"
             dy="10.5360790513834"
             opacity="1"
-            fill="#61a2ca"
+            fill="#61a200"
             stroke="none"
             transform="translate(784, 340)"
             id="text79">Data</text>
@@ -441,7 +441,7 @@
             text-anchor="start"
             dy="10.5360790513834"
             opacity="1"
-            fill="#61a2ca"
+            fill="#61a200"
             stroke="none"
             transform="translate(636, 432)"
             id="text81">Job</text>
@@ -452,7 +452,7 @@
             text-anchor="start"
             dy="10.5360790513834"
             opacity="1"
-            fill="#32628c"
+            fill="#326200"
             stroke="none"
             transform="translate(386, 458) rotate(-60.626752119885005)"
             id="text83">SQL</text>
@@ -463,7 +463,7 @@
             text-anchor="start"
             dy="8.42886324110672"
             opacity="1"
-            fill="#32628c"
+            fill="#326200"
             stroke="none"
             transform="translate(792, 456)"
             id="text85">release</text>
@@ -474,7 +474,7 @@
             text-anchor="start"
             dy="8.42886324110672"
             opacity="1"
-            fill="#32628c"
+            fill="#326200"
             stroke="none"
             transform="translate(858, 420)"
             id="text87">debug</text>
@@ -485,7 +485,7 @@
             text-anchor="start"
             dy="8.42886324110672"
             opacity="1"
-            fill="#021f59"
+            fill="#021f00"
             stroke="none"
             transform="translate(278, 568)"
             id="text89">Glide</text>
@@ -496,7 +496,7 @@
             text-anchor="start"
             dy="8.42886324110672"
             opacity="1"
-            fill="#61a2ca"
+            fill="#61a200"
             stroke="none"
             transform="translate(640, 464)"
             id="text91">JSON</text>
@@ -507,7 +507,7 @@
             text-anchor="start"
             dy="8.42886324110672"
             opacity="1"
-            fill="#30588c"
+            fill="#305800"
             stroke="none"
             transform="translate(912, 500)"
             id="text93">Text</text>
@@ -518,7 +518,7 @@
             text-anchor="start"
             dy="8.42886324110672"
             opacity="1"
-            fill="#61a2ca"
+            fill="#61a200"
             stroke="none"
             transform="translate(760, 472)"
             id="text95">demo</text>
@@ -529,7 +529,7 @@
             text-anchor="start"
             dy="8.42886324110672"
             opacity="1"
-            fill="#32628c"
+            fill="#326200"
             stroke="none"
             transform="translate(188, 524)"
             id="text97">Edit</text>
@@ -540,7 +540,7 @@
             text-anchor="start"
             dy="8.42886324110672"
             opacity="1"
-            fill="#61a2ca"
+            fill="#61a200"
             stroke="none"
             transform="translate(400, 422) rotate(-52.89491309139202)"
             id="text99">XML</text>
@@ -551,14 +551,14 @@
             text-anchor="start"
             dy="6.32164743083004"
             opacity="1"
-            fill="#32628c"
+            fill="#326200"
             stroke="none"
             transform="translate(854, 596)"
             id="text101">ConstraintLayout</text>
     <text
             x="266.74429"
             y="-80.07534"
-            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.86515427px;line-height:normal;font-family:'Roboto Mono';text-anchor:start;opacity:1;fill:#021f59;stroke:none"
+            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.86515427px;line-height:normal;font-family:'Roboto Mono';text-anchor:start;opacity:1;fill:#021f00;stroke:none"
             dy="7.85184"
             transform="matrix(0.57338348,0.81928712,-0.81928712,0.57338348,0,0)"
             id="text103">RecyclerView</text>
@@ -569,7 +569,7 @@
             text-anchor="start"
             dy="6.32164743083004"
             opacity="1"
-            fill="#03318c"
+            fill="#033100"
             stroke="none"
             transform="translate(564, 496)"
             id="text105">Presenter</text>
@@ -580,7 +580,7 @@
             text-anchor="start"
             dy="6.32164743083004"
             opacity="1"
-            fill="#021f59"
+            fill="#021f00"
             stroke="none"
             transform="translate(280, 324)"
             id="text107">Receiver</text>
@@ -591,7 +591,7 @@
             text-anchor="start"
             dy="6.32164743083004"
             opacity="1"
-            fill="#30588c"
+            fill="#305800"
             stroke="none"
             transform="translate(168, 404) rotate(-59.4794362040583)"
             id="text109">Content</text>
@@ -602,7 +602,7 @@
             text-anchor="start"
             dy="6.32164743083004"
             opacity="1"
-            fill="#32628c"
+            fill="#326200"
             stroke="none"
             transform="translate(482, 496)"
             id="text111">switch</text>
@@ -613,7 +613,7 @@
             text-anchor="start"
             dy="6.32164743083004"
             opacity="1"
-            fill="#021f59"
+            fill="#021f00"
             stroke="none"
             transform="translate(908, 536) rotate(61.35396207858658)"
             id="text113">Thread</text>
@@ -624,7 +624,7 @@
             text-anchor="start"
             dy="6.32164743083004"
             opacity="1"
-            fill="#61a2ca"
+            fill="#61a200"
             stroke="none"
             transform="translate(130, 508) rotate(-57.989777775733685)"
             id="text115">Kotlin</text>
@@ -635,7 +635,7 @@
             text-anchor="start"
             dy="6.32164743083004"
             opacity="1"
-            fill="#03318c"
+            fill="#033100"
             stroke="none"
             transform="translate(454, 260)"
             id="text117">module</text>
@@ -646,7 +646,7 @@
             text-anchor="start"
             dy="6.32164743083004"
             opacity="1"
-            fill="#61a2ca"
+            fill="#61a200"
             stroke="none"
             transform="translate(636, 480)"
             id="text119">Hello</text>
@@ -657,7 +657,7 @@
             text-anchor="start"
             dy="6.32164743083004"
             opacity="1"
-            fill="#021f59"
+            fill="#021f00"
             stroke="none"
             transform="translate(544, 540)"
             id="text121">Async</text>
@@ -668,7 +668,7 @@
             text-anchor="start"
             dy="6.32164743083004"
             opacity="1"
-            fill="#32628c"
+            fill="#326200"
             stroke="none"
             transform="translate(534, 410) rotate(-89.60638555861598)"
             id="text123">World</text>
@@ -679,7 +679,7 @@
             text-anchor="start"
             dy="6.32164743083004"
             opacity="1"
-            fill="#30588c"
+            fill="#305800"
             stroke="none"
             transform="translate(576, 412)"
             id="text125">Java</text>
@@ -690,7 +690,7 @@
             text-anchor="start"
             dy="6.32164743083004"
             opacity="1"
-            fill="#021f59"
+            fill="#021f00"
             stroke="none"
             transform="translate(512, 476)"
             id="text127">try</text>
@@ -701,7 +701,7 @@
             text-anchor="start"
             dy="6.32164743083004"
             opacity="1"
-            fill="#03318c"
+            fill="#033100"
             stroke="none"
             transform="translate(630, 364) rotate(-12.554386517793905)"
             id="text129">app</text>
@@ -712,7 +712,7 @@
             text-anchor="start"
             dy="6.32164743083004"
             opacity="1"
-            fill="#021f59"
+            fill="#021f00"
             stroke="none"
             transform="translate(510, 368)"
             id="text131">if</text>
@@ -723,7 +723,7 @@
             text-anchor="start"
             dy="8.42886324110672"
             opacity="1"
-            fill="#61a2ca"
+            fill="#61a200"
             stroke="none"
             transform="scale(0.5, 0.5) translate(244, 1164) rotate(-54.365910442895796)"
             id="text133">AsyncTask</text>
@@ -734,7 +734,7 @@
             text-anchor="start"
             dy="8.42886324110672"
             opacity="1"
-            fill="#30588c"
+            fill="#305800"
             stroke="none"
             transform="scale(0.5, 0.5) translate(1328, 552)"
             id="text135">Broadcast</text>
@@ -745,7 +745,7 @@
             text-anchor="start"
             dy="8.42886324110672"
             opacity="1"
-            fill="#021f59"
+            fill="#021f00"
             stroke="none"
             transform="scale(0.5, 0.5) translate(1244, 528)"
             id="text137">finally</text>
@@ -756,7 +756,7 @@
             text-anchor="start"
             dy="8.42886324110672"
             opacity="1"
-            fill="#30588c"
+            fill="#305800"
             stroke="none"
             transform="scale(0.5, 0.5) translate(800, 784)"
             id="text139">catch</text>
@@ -767,7 +767,7 @@
             text-anchor="start"
             dy="8.42886324110672"
             opacity="1"
-            fill="#32628c"
+            fill="#326200"
             stroke="none"
             transform="scale(0.5, 0.5) translate(1288, 824)"
             id="text141">Task</text>
@@ -778,7 +778,7 @@
             text-anchor="start"
             dy="8.42886324110672"
             opacity="1"
-            fill="#03318c"
+            fill="#033100"
             stroke="none"
             transform="scale(0.5, 0.5) translate(1272, 984)"
             id="text143">case</text>
