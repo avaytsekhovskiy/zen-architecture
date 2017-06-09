@@ -52,16 +52,16 @@ body {
   word-wrap: break-word; }
 
 .reveal h1 {
-  font-size: 1.77em; }
+  font-size: 2.33em; }
 
 .reveal h2 {
-  font-size: 1.33em; }
+  font-size: 2em; }
 
 .reveal h3 {
-  font-size: 1.11em; }
+  font-size: 1.77em; }
 
 .reveal h4 {
-  font-size: 1em; }
+  font-size: 1.44em; }
 
 .reveal h1 {
   text-shadow: none; }
@@ -416,14 +416,14 @@ ul.table-of-content {
 
 .reveal .slides .how-its-made {
   position: absolute !important;
-  top: 1em !important;
-  right: 1em !important;
+  top: 1.44em !important;
+  right: 1.44em !important;
   text-align: right;
   width: auto !important;
   background-color: #daffe1; }
 
 .reveal .slides #contents .how-its-made {
-  top: 4em !important; }
+  top: 5.76em !important; }
 
 .pdf-page .how-its-made {
   display: none; }
